@@ -1,18 +1,18 @@
 # Yumeng Liu · Robotics Portfolio
 
-私有个人作品集，汇总以下三个项目：
+公开个人作品集，汇总以下三个项目：
 
 | 项目 | 仓库 | 可见性 |
 | --- | --- | --- |
-| 三点控制器 / ASYNC-3PT & ASYNC-CA | [three-point-controller](https://github.com/Anonnyyy/three-point-controller) | Private |
-| RCar 毕设 / Guided Diffusion Planning | [rcar-humanoid-reaching](https://github.com/Anonnyyy/rcar-humanoid-reaching) | Private |
+| 三点控制器 / ASYNC-3PT & ASYNC-CA | [three-point-controller](https://github.com/Anonnyyy/three-point-controller) | Public · 代码暂未发布 |
+| RCar 毕设 / Guided Diffusion Planning | [rcar-humanoid-reaching](https://github.com/Anonnyyy/rcar-humanoid-reaching) | Public · 代码暂未发布 |
 | 电赛信号分离装置 / HandDream | [signal-separation-2023](https://github.com/Anonnyyy/signal-separation-2023) | Public |
 
 ## 查看完整网页
 
 下载或克隆此仓库，用浏览器打开 `index.html`。三个项目页、论文 PDF、视频和图片均包含在本仓库中，支持本地访问。
 
-仓库保持 **Private**，没有启用公开 GitHub Pages。GitHub 上的 `index.html` 文件页只显示源码；真正的网页需本地打开或使用带访问控制的私有托管。
+仓库现为 **Public**，尚未启用 GitHub Pages。GitHub 上的 `index.html` 文件页显示源码，可下载后在本地打开。个人 GitHub Overview 中的图文项目卡片位于 [Anonnyyy](https://github.com/Anonnyyy)。
 
 ## 页面结构
 

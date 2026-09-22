@@ -10,9 +10,9 @@
 
 ## 查看完整网页
 
-下载或克隆此仓库，用浏览器打开 `index.html`。三个项目页、论文 PDF、视频和图片均包含在本仓库中，支持本地访问。
+在线访问：[个人作品集](https://anonnyyy.github.io/)。也可下载或克隆此仓库，用浏览器打开 `index.html`。三个项目页、论文 PDF、视频和图片均包含在本仓库中，支持本地访问。
 
-仓库现为 **Public**，尚未启用 GitHub Pages。GitHub 上的 `index.html` 文件页显示源码，可下载后在本地打开。个人 GitHub Overview 中的图文项目卡片位于 [Anonnyyy](https://github.com/Anonnyyy)。
+仓库为 **Public**，通过 GitHub Pages 提供网页、视频播放与 PDF 阅读。个人 GitHub Overview 中的图文项目卡片位于 [Anonnyyy](https://github.com/Anonnyyy)。
 
 ## 页面结构
 
